@@ -1,0 +1,68 @@
+
+.card{
+    width: 800px;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+.card {
+   position: relative;
+   bottom: 80px;
+   right: 400px;
+}
+.img1{
+  position: relative;
+  left: 500px;
+  top: 100px;
+}
+.para{
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 40px;
+}
+.des{
+    width: 400px;
+    height: 60px;
+}
+.des{
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+}
+.slogan{
+    width: 400px;
+    position: relative;
+    left: 50px;
+    bottom: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.welcome h1{
+    position:relative;
+    background-color: aqua;
+   
+}
+.slogan h1{
+    position: relative;
+    right: 600px;
+     
+}
+.slogan{
+    width: 400px;
+    height: 40px;
+    position: relative;
+    right: 200px;
+}
+.slogan h1:hover{
+    color: rgb(242, 83, 83);
+}
+.raghu{
+    position: relative;
+    bottom: 70px;
+    transition: 0.2s;
+}
+.raghu:hover{
+    transform: scale(1.2);
+     
+}

@@ -1,0 +1,65 @@
+
+.nav {
+    width: 200px;
+    height: 20px;
+    position: relative;
+    font-size: 20px;
+}
+.main p{
+    width: 400px;
+    height: 100px;
+    position: relative;
+    right: 400px;
+}
+.resume{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    position: relative;
+    bottom: 300px;
+    left: 100px;
+    border-radius: 20px;
+}
+.resume-name1{
+    position: absolute;
+    left: 300px;
+}
+.resume img{
+    width: 400px;
+    height: 600px;
+    bottom: 300px;
+    left: 200px;
+    border-radius: 20px;
+}
+.Btn{
+    position: relative;
+    top: 20px;
+    width: 200px;
+    left: 90px;
+    height: 40px;
+    border-radius: 20px;
+    transition-duration: 0.5s;
+}
+.Btn:hover{
+    transform: scale(1.2);
+    background-color: chocolate;
+    color: black;
+}
+.insta{
+    position: relative;
+    right: 550px;
+   bottom: 180px;
+}
+.insta img{
+    width: 40px;
+    height: 40px;
+}
+.git img{
+    width: 40px;
+    height: 40px;
+}
+.git{
+    position: relative;
+    right: 500px;
+   bottom: 180px;
+}

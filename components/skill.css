@@ -1,0 +1,92 @@
+.box{
+    width: 600px;
+    height: 350px;
+    border-style: double;
+}
+.box{
+    position: relative;
+    right: 400px;
+    bottom: 10px;
+    border-radius: 20px;
+}
+.Skills-intro p{
+    height: 50px;
+    width: 600px;
+    position: relative;
+    top: 50px;
+}
+.Skills-intro{
+    position: relative;
+    right: 500px;
+    transition-duration: 1s;
+}
+.Skills-intro p:hover{
+    color: cadetblue;
+    transform: scale(1.1);
+}
+.java{
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.node{
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.express{
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.react{
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.python{
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    padding-top: 50px;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.mongo{
+    padding-top: 50px;
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
+.javascript{
+    padding-top: 50px;
+    position: relative;
+    bottom: 100px;
+    width: 100px;
+    height: 100px;
+    padding-left:50px ;
+    top: 50px;
+    border-radius: 40px 40px 30px 30px;
+}
